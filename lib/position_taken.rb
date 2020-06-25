@@ -1,5 +1,6 @@
 def position_taken?
   board[index] == "X" || "O" ? "true" : "false"
+end
  
 
 
