@@ -4,6 +4,7 @@ if board[index] == " " || ""
 else
   true 
   end
+end
  
 
 
