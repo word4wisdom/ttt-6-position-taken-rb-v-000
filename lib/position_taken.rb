@@ -1,5 +1,5 @@
 def position_taken?(board, index)
-  array[index] == " " || ""
+  board[index] == " " || ""
    false
 end
 
